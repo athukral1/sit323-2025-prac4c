@@ -16,14 +16,7 @@ In addition to listening on port 3000, this Express-based Node.js server offers 
 Features
 
 
-•	Supports the following arithmetic operations:
-	Addition (/add)
-	Subtraction (/subtract)
-	Multiplication (/multiply)
-	Division (/divide)
-	Exponentiation (/exponentiate)
-	Square Root (/sqrt)
-	Modulo (/modulo)
+•	Supports the following arithmetic operations: Addition (/add); Subtraction (/subtract); Multiplication (/multiply); Division (/divide); Exponentiation (/exponentiate); Square Root (/sqrt); Modulo (/modulo)
 
 
 •	Input validation to ensure correct numerical values are provided.
