@@ -17,7 +17,16 @@ Features
 	Exponentiation (/exponentiate)
 	Square Root (/sqrt)
 	Modulo (/modulo)
+
+
 •	Input validation to ensure correct numerical values are provided.
+
+
 •	Proper error handling, including division by zero and invalid inputs.
+
+
 •	Express middleware support for JSON and URL-encoded data parsing.
+
+
 •	A test endpoint at / to confirm server functionality.
+
